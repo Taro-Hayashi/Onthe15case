@@ -20,7 +20,7 @@
 
 ## 組み立て方
 
-> [!TIPS]  
+> [!NOTE]  
 > On the 15のPCBの組み立て方はOn the 15のビルドガイドをご覧ください  
 > - https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md  
 
