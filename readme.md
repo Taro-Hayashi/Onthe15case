@@ -7,10 +7,21 @@
 |ケース||
 |ゴム足|6|
 
+## キット以外に必要なもの
+
+|||
+|-|-|
+|On the 15|1|
+|キースイッチ|〜60|
+|キーキャップ|〜60|
+|Type-C USBケーブル|1|
+|（オプション）スタビライザー|1|
+|（オプション）ロータリーエンコーダーとノブ 〜4|1|
+
 ## 組み立て方
 
-> [!NOTE]
-> On the 15のPCBの組み立て方はOn the 15のビルドガイドをご覧ください
-> ・https://github.com/Taro-Hayashi/On-the-15
+> [!TIPS]
+> On the 15のPCBの組み立て方はOn the 15のビルドガイドをご覧ください  
+> - https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md
 
-### 
+スイッチプレート
