@@ -17,7 +17,7 @@
 
 |||
 |-|-|
-|On the 15|1|
+|[On the 15](https://shop.yushakobo.jp/products/4994)|1|
 |キースイッチ|〜60|
 |キーキャップ|〜60|
 |Type-C USBケーブル|1|
@@ -25,12 +25,11 @@
 |（オプション）ロータリーエンコーダーとノブ 〜4|1|
 
 ## 組み立て方
-
-組み立てられた状態のケースを一度分解します。プレートの順番がわかるようにしておくと
-
 > [!NOTE]  
 > On the 15のPCBの組み立て方はOn the 15のビルドガイドをご覧ください  
-> - https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md  
+> - https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md
+
+組み立てられた状態のケースを一度分解します。プレートの順番を崩さないようにするとわかりやすいです。
 
 ケースに付属のスイッチプレートを挟み込むように、On the 15のメインボードにキースイッチを差し込みます。
 ![](img/switch.jpg)
