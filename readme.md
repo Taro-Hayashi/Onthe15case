@@ -48,5 +48,5 @@
 ![](img/complete.jpg)  
   
 
-## その他
-アクリルプレートとスイッチプレートのデータは公開予定です。  
+## デザインデータ
+- https://github.com/Taro-Hayashi/Onthe15case/releases/download/case/onthe15case.zip
