@@ -17,7 +17,7 @@
 
 |||
 |-|-|
-|[On the 15](https://shop.yushakobo.jp/products/4994)|1|
+|[On the 15](https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md)|1|
 |キースイッチ|〜60|
 |キーキャップ|〜60|
 |Type-C USBケーブル|1|
